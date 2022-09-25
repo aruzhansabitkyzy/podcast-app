@@ -1,0 +1,17 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.1",
+    "node": "^18.9.0",
+    "podcast-api": "^1.1.4"
+  },
+  "name": "podcast-app",
+  "version": "1.0.0",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
