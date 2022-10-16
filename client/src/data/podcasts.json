@@ -1,0 +1,62 @@
+[
+    {
+        "id" : 1,
+        "name" : "Star Wars",
+        "author" : "Apollo",
+        "image" : "https://assets.pippa.io/shows/631b8393127e010016fc1f66/show-cover.jpg"
+    },
+    {
+        "id" : 2,
+        "name" : "BBC News",
+        "author" : "BBC Podcasts",
+        "image" : "https://feeds.podcastmirror.com/~images/1671111655133244.jpeg"
+    },
+    {
+        "id" : 3,
+        "name" : "BBC Learning English",
+        "author" : "BBC Radio",
+        "image" : "https://play-lh.googleusercontent.com/jjxL22_OEo5W8ZEsnUl8AoZuoc_gvfvQpaGZa9PTWhI2XxS6Wkz2-QUt1DYU1-Ygzg=w600-h300-pc0xffffff-pd"
+    },
+    {
+        "id" : 4,
+        "name" : "All Ears English",
+        "author" : "Lindsay McMahon and Michelle",
+        "image" : "https://yt3.ggpht.com/ytc/AMLnZu_AbbUwkUPcYQNq6-ntYYBHlrfk4NpGFdymvKCPCA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+        "id" : 5,
+        "name" : "Ты – это важно",
+        "author" : "Елена Мицкевич",
+        "image" : "https://cdns-images.dzcdn.net/images/talk/b1e2566ebc96d87b532dcfb61b4d892b/1000x1000.jpg"
+    },
+    {
+        "id" : 6,
+        "name" : "TV, I Say w/ Ashley Ray",
+        "author" : "Earwolf & Ashley Ray",
+        "image" : "https://i.iheart.com/v3/url/aHR0cHM6Ly9pbWFnZS5zaW1wbGVjYXN0Y2RuLmNvbS9pbWFnZXMvZDAyYWIxNjItOTJiMS00MGQwLTlkOTAtY2FhYjMwY2UzOTRmLzk0M2VkM2U0LTFjM2QtNDkxYS04ZDI2LTU1NDg3YWUyNDVkZi8zMDAweDMwMDAvZWFyd29sZi1jb3Zlci10di1pLXNheS0zMDAweDMwMDAtZmluYWwuanBnP2FpZD1yc3NfZmVlZA?ops=fit(960%2C960)"
+    },
+    {
+        "id" : 7,
+        "name" : "Serum",
+        "author" : "WHYY",
+        "image" : "https://whyy.org/wp-content/uploads/2022/07/serum_1000x1000.jpg"
+    },
+    {
+        "id" : 8,
+        "name" : "Head Noise",
+        "author" : "The Australian",
+        "image" : "https://content.api.news/v3/images/bin/620ab18df531b3e68a2e882fc0cbeda6"
+    },
+    {
+        "id" : 9,
+        "name" : "Planet Money",
+        "author" : "NPR",
+        "image" : "https://media.npr.org/assets/img/2022/09/23/planet-money_tile_npr-network-011_sq-931aa24b5dd8a691a73c0f0aa2541322c8104add-s1400-c100.jpg"
+    },
+    {
+        "id" : 10,
+        "name" : "Funny Cuz It's True with Elyse Myers",
+        "author" : "Lemonada Media",
+        "image" : "https://lemonadamedia.com/wp-content/uploads/2022/09/FunnyCuzItsTrue_KeyArt_1400.png"
+    }
+]
