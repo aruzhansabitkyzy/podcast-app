@@ -1,11 +1,28 @@
-const axios = require('axios');
-const api_key = '5bac02e2d11c472ba27c7c91f1e3cf0b'
-const express = require('express')
-const app = express()
+import pkg from '../client/src/components/instance.js';
+const {instance} = pkg;
+const {Client}  = require('podcast-api')
 
-axios.get({
-  baseURL: 'https://listen-api.listennotes.com/api/v2',
-  params: {
-    key : api_key, 
-  }
+// app.get('/', async function(req, res) {
+//    let query = req.body;
+//    if(query.endpoint != null) {
+//       let end = query.endpoint;
+//       switch(end) {
+//          case 'search' : 
+//           instance.get('/search', {q: query.q})
+//           .then(function(res) {
+//             var podcasts = res.data
+//             console.log(podcasts)
+//             res.send({podcasts})
+//           })
+//           .catch(error => {
+//             console.log(error)
+//             res.send({error: error})
+//           })
+//       }
+//    }
+// })
+
+instance.get('/search', function(req, res) {
+   
 })
+console.log("done")

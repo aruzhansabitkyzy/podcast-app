@@ -1,0 +1,24 @@
+.set {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.podcast {
+    width: 150px;
+    height: 180px;
+    padding: 30px;
+    background-color: rgba(32,34,82,255);
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.div_title p{
+    color: white;
+}
+.div_author p {
+    color: white;
+}
+.div_audio {
+   color : white;
+}

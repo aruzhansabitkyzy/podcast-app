@@ -1,3 +1,43 @@
+.main {
+  background: linear-gradient(90deg, rgba(24,23,41,1) 0%, rgba(15,24,127,1) 100%);
+  width: 100%;
+  display: flex;
+}
+.main-left {
+  width: 65%;
+}
 .search-div {
-  background-color: azure;
+  display: inline-block;
+  margin: 20px 0 20px 20px;
+}
+.search-div input {
+  padding-right: 20px;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  color: white;
+  width: 200px;
+  height: 30px;
+  border-radius: 20px;
+}
+.searchIcon {
+  cursor : pointer;
+}
+.title {
+  width : 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 0 10px;
+}
+.title h1 {
+  color: white;
+}
+select {
+  height: 35px;
+  color:white;
+  background-color: rgb(24,23,41);
+  outline: none;
+  border: none;
+  border-radius: 5px;
 }
